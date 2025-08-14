@@ -3,6 +3,8 @@
 3. 代码上传到GitHub
 
 ## Quickstart
+```
 git clone https://github.com/Tzzzzzman/foundry-frist-repo.git
 cd foundry-fund-me-f23
 forge build
+```
